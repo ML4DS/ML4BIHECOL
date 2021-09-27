@@ -22,3 +22,9 @@
 [submodule "dbManager"]
 	path = dbManager
 	url = https://github.com/jeroarenas/dbManager.git
+[submodule "TMtweets"]
+	path = TMtweets
+	url = https://github.com/jperdel/TMtweets.git
+[submodule "DistributedCWLM"]
+	path = DistributedCWLM
+	url = https://github.com/jperdel/DistributedCWLM.git
