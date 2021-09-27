@@ -1,0 +1,24 @@
+[submodule "WeakLabelModel"]
+	path = WeakLabelModel
+	url = https://github.com/Orieus/WeakLabelModel.git
+[submodule "labelFactory"]
+	path = labelFactory
+	url = https://github.com/Orieus/labelFactory.git
+[submodule "menuNavigator"]
+	path = menuNavigator
+	url = https://github.com/Orieus/menuNavigator.git
+[submodule "SVM_spark"]
+	path = SVM_spark
+	url = https://github.com/angelnaviavazquez/SVM_spark.git
+[submodule "regMVA"]
+	path = regMVA
+	url = https://github.com/sevisal/regMVA.git
+[submodule "SSHIBA"]
+	path = SSHIBA
+	url = https://github.com/sevisal/SSHIBA.git
+[submodule "KSSHIBA"]
+	path = KSSHIBA
+	url = https://github.com/sevisal/KSSHIBA.git
+[submodule "dbManager"]
+	path = dbManager
+	url = https://github.com/jeroarenas/dbManager.git
