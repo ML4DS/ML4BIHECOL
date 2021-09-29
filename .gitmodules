@@ -28,3 +28,12 @@
 [submodule "DistributedCWLM"]
 	path = DistributedCWLM
 	url = https://github.com/jperdel/DistributedCWLM.git
+[submodule "one_def_classification"]
+	path = one_def_classification
+	url = https://github.com/Orieus/one_def_classification.git
+[submodule "pysparkMVA"]
+	path = pysparkMVA
+	url = https://github.com/jeroarenas/pysparkMVA.git
+[submodule "PTL_data"]
+	path = PTL_data
+	url = https://github.com/jeroarenas/PTL_data.git
