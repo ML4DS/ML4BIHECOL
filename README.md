@@ -25,3 +25,6 @@ Feature Selection and Feature Extraction:
 - regMVA: Deep Learning for Margin Valuation Adjustment with regularization.
 - SSHIBA: generalized Bayesian approach to feature extraction for heterogeneous data.
 - KSSHIBA: kernelized observation SSHIBA.
+
+Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
+
