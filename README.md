@@ -28,3 +28,10 @@ Feature Selection and Feature Extraction:
 
 Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
 
+<img src="https://github.com/ML4DS/ML4BIHECOL/blob/main/figs/logos_ciencia.jpg" width="400">
+
+
+
+
+
+
