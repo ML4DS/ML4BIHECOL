@@ -26,6 +26,9 @@ Feature Selection and Feature Extraction:
 - SSHIBA: generalized Bayesian approach to feature extraction for heterogeneous data.
 - KSSHIBA: kernelized observation SSHIBA.
 
+Graph synthesis, processing and analysis.
+- supergraph: a software package for the synthesis, analysis and processing of large graphs.
+
 Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
 
 <img src="https://github.com/ML4DS/ML4BIHECOL/blob/main/figs/logos_ciencia.jpg" width="400">
