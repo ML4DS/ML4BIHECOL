@@ -6,7 +6,7 @@ The available repositories, divided by tasks are:
 
 Spark implementation of parallel algorithms:
 - [**DistributedCWLM**:](https://github.com/jperdel/DistributedCWLM/tree/a8cac560c79c51e06c44a3ce3978f0c6a67423fa) distributed, interpretable regression algorithm in Spark.
-- **SVM_spark**: distributed, non-linear, semiparametric SVM implementation in Spark.
+- [**SVM_spark**](https://github.com/angelnaviavazquez/SVM_spark/tree/84738ca8f1953b03144627893e03418812b6bd7f): distributed, non-linear, semiparametric SVM implementation in Spark.
 - [**pysparkMVA**](https://github.com/jeroarenas/pysparkMVA/tree/481e1f48c3d42308414ea21b5ef4e56b580cf914): distributed implementation of Deep Learning for Margin Valuation Adjustment with regularization.
 
 Topic Models tools:
@@ -43,8 +43,10 @@ you can do
 
     git submodule update --init --recursive
     
-Alternatively, you can use specific submodules only. The best way to work with a specific submodule is to clich pon the l
+Alternatively, you can use specific submodules only. The best way to work with a specific submodule is to clone the specific github project associated to the submodule
 
+    git clone https://github.com/URL/of/the/project
+    
 Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
 
 <img src="https://github.com/ML4DS/ML4BIHECOL/blob/main/figs/logos_ciencia.jpg" width="400">
