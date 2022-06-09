@@ -1,5 +1,10 @@
 # ML4BIHECOL
 
+A project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
+
+<img src="https://github.com/ML4DS/ML4BIHECOL/blob/main/figs/logos_ciencia.jpg" width="400">
+
+
 Machine learning tools for the analysis of large document collections. A brief description of each of them is given, even though each has it's own documentation.
 
 The available repositories, divided by tasks are:
@@ -47,10 +52,6 @@ Alternatively, you can use specific submodules only. The best way to work with a
 
     git clone https://github.com/URL/of/the/project
     
-Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
-
-<img src="https://github.com/ML4DS/ML4BIHECOL/blob/main/figs/logos_ciencia.jpg" width="400">
-
 
 
 
