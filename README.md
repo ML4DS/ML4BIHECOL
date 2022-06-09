@@ -17,7 +17,7 @@ Topic Models tools:
 
 Integration of modules:
 - **PTL_data**: ETL & lemmatization tool for PTL.
-- **DB_expl**: Exploratory Data Analysis of mySQL databases.
+- **PdbManager**: Managing mySQL databases (replaces older DB_expl).
 - **dbManager**: Python class for managing mySQL or sqlite databases.
 - **menuNavigator**: a generic template application to generate command-line menus.
 
@@ -28,6 +28,20 @@ Feature Selection and Feature Extraction:
 
 Graph synthesis, processing and analysis.
 - **supergraph**: a software package for the synthesis, analysis and processing of large graphs.
+
+## Instructions:
+
+To clone the project with all their submodules:
+
+    git clone --recurse-submodules https://github.com/ML4DS/ML4BIHECOL
+
+If you have already done
+
+   git clone https://github.com/ML4DS/ML4BIHECOL
+
+you can do 
+
+  git submodule update --init --recursive
 
 Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
 
