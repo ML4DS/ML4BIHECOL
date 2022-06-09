@@ -37,6 +37,3 @@
 [submodule "PTL_data"]
 	path = PTL_data
 	url = https://github.com/jeroarenas/PTL_data.git
-[submodule "DB_expl"]
-	path = DB_expl
-	url = https://github.com/Grarck/DB_expl.git
