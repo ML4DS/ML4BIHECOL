@@ -37,3 +37,6 @@
 [submodule "PTL_data"]
 	path = PTL_data
 	url = https://github.com/jeroarenas/PTL_data.git
+[submodule "supergraph"]
+	path = supergraph
+	url = https://github.com/Orieus/supergraph
