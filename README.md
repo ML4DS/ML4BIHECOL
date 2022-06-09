@@ -37,11 +37,11 @@ To clone the project with all their submodules:
 
 If you have already done
 
-   git clone https://github.com/ML4DS/ML4BIHECOL
+    git clone https://github.com/ML4DS/ML4BIHECOL
 
 you can do 
 
-  git submodule update --init --recursive
+    git submodule update --init --recursive
 
 Project funded by: FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ _Proyecto TEC2017-83838-R.
 
