@@ -40,3 +40,6 @@
 [submodule "supergraph"]
 	path = supergraph
 	url = https://github.com/Orieus/supergraph
+[submodule "PdbManager"]
+	path = PdbManager
+	url = https://github.com/Grarck/PdbManager
